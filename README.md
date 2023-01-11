@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [Here is my CV](https://docs.google.com/document/d/1C46JNvOwTts6fhIRQmM_XLn-HgH2N6lS9oEz6t95R4Y/edit?usp=sharing)
 
-- ⚡ Fun fact **Let's play chess. Challenge me at https://chess.com/play/AsadullahGalib**
+- ⚡ Fun fact Let's play chess. Challenge me at [chess.com](https://chess.com/play/AsadullahGalib)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
