@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Asadullah</h1>
+-->
+
+<h1 align="center">Hi 👋, I'm Asadullah</h1>
 <h3 align="center">A graduate in Computer Science</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadullahgalib007&label=Profile%20views&color=0e75b6&style=flat" alt="asadullahgalib007" /> </p>
 
 - 📫 How to reach me **abrgalib@gmail.com**
 
@@ -24,6 +28,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/infamousword361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infamousword361" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asadullah-bin-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadullah-bin-rahman" height="30" width="40" /></a>
 <a href="https://kaggle.com/asadullahgalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asadullahgalib" height="30" width="40" /></a>
 <a href="https://fb.com/infamoussword361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="infamoussword361" height="30" width="40" /></a>
