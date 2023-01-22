@@ -46,6 +46,22 @@
     <li>Submitted as final year thesis</li>
     <li>Written in Python</li>
     <li>Proposed and implemented a Convolutional Neural Network(CNN) model to detect brain tumors from MR Images</li>
+    <li>Visit <a href="https://www.kaggle.com/code/asadullahgalib/multiclass-brain-tumor-classification">kaggle</a></li>
+  </ul>
+  
+  <b><i>PENGUIN SPECIES CLASSIFICATION</i></b>
+  <ul>
+    <li>Written in Python</li>
+    <li>Performed Feature Engineering and Data Cleaning</li>
+    <li>Implemented KFold cross validation with Decision Tree, Random Forest and SVM</li> 
+    <li>Here is the <a href="https://www.kaggle.com/code/asadullahgalib/penguin-species-classification-with-kfold-cv">kaggle</a> link</li>
+  </ul>
+  
+  <b><i>INTEL IMAGE CLASSIFICATION</i></b>
+  <ul>
+    <li>Written in Python</li>
+    <li>Image Processing and Machine Learning based project</li>
+    <li>Visit <a href="https://www.kaggle.com/code/asadullahgalib/intel-image-classification">kaggle</a></li>
   </ul>
 </p>
 
