@@ -3,8 +3,8 @@
 
 <h6 align="center">Dinajpur-5200, Bangladesh | <a href="mailto:abrgalib@gmail.com">abrgalib@gmail.com</a> | <a href="tel:8801701905796">+880 1701 905 796</a> | <a href="https://twitter.com/infamousword361" target="blank">Twitter</a> | <a href="https://www.linkedin.com/in/asadullah-bin-rahman" target="blank">Linkedin</a></h6>
 
-<h2>OVERVIEW</h2>
-<span>As a graduate in Computer Science, I am eager to bring my skills and knowledge in programming, algorithm design, and software development to the workforce. Throughout my degree, I gained hands-on experience working on various projects. My expertise includes programming languages such as Java, C++, and Python, as well as a strong understanding of data structures, algorithms, database, and computer systems. I am a strong communicator and team player, as demonstrated through my participation in multiple group projects and presentations. I am excited to continue learning and growing as a software engineer, and look forward to the opportunity to contribute my skills to a dynamic team.</span>
+<h2>About Me</h2>
+<span>I am a CS Graduate, a Teacher, Artificial Intelligence, Machine Learning, and Data Science enthusiast.</span>
 
 <h2>EDUCATION</h2>
 <p>
