@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=asadullahgalib007&label=Profile%20views&color=0e75b6&style=flat" alt="asadullahgalib007" /> </p>
 <h1 align="center">ASADULLAH BIN RAHMAN</h1>
 
-<h6 align="center">Dinajpur-5200, Bangladesh | <a href="mailto:abrgalib@gmail.com">abrgalib@gmail.com</a> | <a href="tel:8801701905796">+880 1701 905 796</a> | <a href="https://twitter.com/infamousword361" target="blank">Twitter</a> | <a href="https://www.linkedin.com/in/asadullah-bin-rahman" target="blank">Linkedin</a></h6>
+<h6 align="center">Dinajpur-5200, Bangladesh | <a href="mailto:abrgalib@gmail.com">abrgalib@gmail.com</a> | <a href="tel:8801701905796">+880 1701 905 796</a> | <a href="https://x.com/__galib__" target="blank">Twitter/X</a> | <a href="https://www.linkedin.com/in/asadullah-bin-rahman" target="blank">Linkedin</a></h6>
 
 <h2>About Me</h2>
 <span>I am a CS Graduate, Teacher, Quantum Computing & Quantum Information Enthusiast, and AI/ML & Image Processing Researcher</span>
@@ -44,7 +44,4 @@
 <a href="https://codeforces.com/profile/asadullah_galib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asadullah_galib" height="30" width="40" /></a><br><br>
 <a href="https://docs.google.com/document/d/1C46JNvOwTts6fhIRQmM_XLn-HgH2N6lS9oEz6t95R4Y/edit?usp=sharing" target="blank">Link to My CV</a>
 </p>
-
-<h2 align="left">SUPPORT</h2>
-<p align="center"><a href="https://www.buymeacoffee.com/galib007"> <img center="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="galib007" /></a></p><br><br>
 
